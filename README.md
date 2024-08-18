@@ -1,8 +1,12 @@
 # Café da My Melody
+<img src="https://th.bing.com/th/id/OIP.H4bxghfG87_XtmEwlgHyWwHaFA?rs=1&pid=ImgDetMai" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 🎀 **Café da My Melody** é um programa simples em Java que simula um menu de cafeteria, oferecendo uma seleção de comidinhas e bebidas com um toque especial da My Melody! 🎀
 
-## Funcionalidades
+
+
+### Funcionalidades
 
 - **Menu:** Apresenta uma lista de itens disponíveis no café.
 - **Escolha do Usuário:** Permite ao usuário selecionar um item do menu.
